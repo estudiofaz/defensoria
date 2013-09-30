@@ -1,4 +1,4 @@
-defensoria
+Defensoria
 ==========
 
-Aplicacion web para defensoria 1.0
+Aplicacion web para Defensoria version 1.0
